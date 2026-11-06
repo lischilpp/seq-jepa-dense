@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "seq-JEPA-dense"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/lischilpp/seq-jepa-dense"
+authors:
+  - family-names: Schilpp
+    given-names: Linus
+  - family-names: Yamachui Sitcheu
+    given-names: Angelo Jovin
+  - family-names: Lautenschlager
+    given-names: Thomas
+  - family-names: Saur
+    given-names: Leonard
+  - family-names: Friederich
+    given-names: Nils
+  - family-names: Mikut
+    given-names: Ralf
+  - family-names: Allgeier
+    given-names: Stephan
+preferred-citation:
+  type: conference-paper
+  title: "Biomedical Self-Supervised Learning using Sequential and Action-Conditioned Prediction: A Proof of Concept in Histopathology"
+  authors:
+    - family-names: Schilpp
+      given-names: Linus
+    - family-names: Yamachui Sitcheu
+      given-names: Angelo Jovin
+    - family-names: Lautenschlager
+      given-names: Thomas
+    - family-names: Saur
+      given-names: Leonard
+    - family-names: Friederich
+      given-names: Nils
+    - family-names: Mikut
+      given-names: Ralf
+    - family-names: Allgeier
+      given-names: Stephan
+  collection-title: "Proceedings. 36. Workshop Computational Intelligence"
+  editors:
+    - family-names: Schulte
+      given-names: Horst
+  publisher:
+    name: KIT Scientific Publishing
+  conference:
+    name: "36. Workshop Computational Intelligence"
+    city: Berlin
+    date-start: 2026-11-19
+    date-end: 2026-11-20
+  start: 51
+  end: 77
+  year: 2026
+  doi: 10.5445/IR/1000198476

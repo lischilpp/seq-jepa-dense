@@ -1,0 +1,16 @@
+# data and training outputs
+datasets/
+runs/
+*.ckpt
+*.pt
+*.pth
+
+# generated figures
+*.png
+*.jpg
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info
